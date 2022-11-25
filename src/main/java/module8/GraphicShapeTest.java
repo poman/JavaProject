@@ -18,11 +18,7 @@ public class GraphicShapeTest {
 
         Shape parallelogram = new Parallelogram("Parallelogram");
         printFigure.printFiguraName(parallelogram);
-
     }
-}
-
-interface Printable {
 }
 
 interface Drawable {
