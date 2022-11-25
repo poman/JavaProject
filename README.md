@@ -2,7 +2,7 @@
 
 ### Quick links:
 
-[module8](JavaProject/blob/main/src/main/java/module8/GraphicShapeTest.java)
+[module8](src/main/java/module8/GraphicShapeTest.java)
 
 module9 - TBD
 
