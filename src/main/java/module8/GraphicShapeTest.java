@@ -23,7 +23,6 @@ public class GraphicShapeTest {
 }
 
 interface Printable {
-    void printName();
 }
 
 interface Drawable {
